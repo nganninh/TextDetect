@@ -1,0 +1,4 @@
+66,4,640,4,640,69,66,69, Thuận; Ngô Hiếu Toàn Đảng ủy viên Phó
+189,69,640,69,640,134,189,134, xúc tiến Thương mại Du lịch và
+35,134,640,134,640,199,35,199, Văn Bình - nguyên Ủy viên Ban Chấp hành
+73,199,640,199,640,264,73,264, vì nêu sai sót nào của thành phố chính

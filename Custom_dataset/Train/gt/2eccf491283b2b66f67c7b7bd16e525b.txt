@@ -1,0 +1,4 @@
+183,2,640,2,640,73,183,73, đối với Đại tá Đào Văn Lý Đảng
+73,73,640,73,640,144,73,144, “quà tặng” của đối tác trái quy định vi
+37,144,602,144,602,215,37,215, thư Quận ủy Chủ tịch UBND quận Liên
+20,215,640,215,640,286,20,286, luận ông Ninh Văn Chủ với cương vị bí thư

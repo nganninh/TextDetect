@@ -1,0 +1,3 @@
+70,0,640,0,640,72,70,72, những vi phạm khuyết điểm của
+10,72,640,72,640,144,10,144, thi hành kỷ luật ông Ngô Duy Thanh
+43,144,640,144,640,216,43,216, ty thông qua việc thực hiện các dự

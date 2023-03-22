@@ -1,0 +1,4 @@
+37,6,640,6,640,75,37,75, năm 6 tháng – 3 năm tù Nguyễn
+2,75,640,75,640,144,2,144, thi hành kỷ luật về Đảng tại Quyết
+25,144,640,144,640,213,25,213, Trương Minh Tuấn phạm vào tội
+76,213,640,213,640,282,76,282, xử lý vụ việc gây thất thoát lớn

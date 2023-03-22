@@ -1,0 +1,3 @@
+32,1,640,1,640,72,32,72, Trưởng Ban quản lý Khu kinh tế
+43,72,640,72,640,143,43,143, Thanh Danh nguyên Phó Bí thư
+101,143,640,143,640,214,101,214, tắng trợn tự do ngôn luận và

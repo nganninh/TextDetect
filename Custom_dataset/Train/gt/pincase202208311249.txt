@@ -1,0 +1,3 @@
+47,1,640,1,640,72,47,72, ra nhiều vi phạm khuyết điểm nghiêm
+11,72,640,72,640,143,11,143, hiện quy trình bổ nhiệm về vi phạm của
+44,143,640,143,640,214,44,214, trách đối với ông Đặng Văn Thành -

@@ -1,0 +1,1 @@
+60,8,640,8,640,77,60,77, trong việc khai lý lịch Cụ thể

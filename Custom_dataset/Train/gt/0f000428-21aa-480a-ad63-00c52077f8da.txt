@@ -1,0 +1,3 @@
+98,2,640,2,640,70,98,70, cương vị ủy viên Ban cán sự
+6,70,640,70,640,138,6,138, Trần Xuân Ninh nguyên Ủy viên
+54,138,640,138,640,206,54,206, UBKT Trung ương quyết định

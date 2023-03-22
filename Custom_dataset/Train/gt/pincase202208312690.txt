@@ -1,0 +1,4 @@
+211,8,640,8,640,74,211,74, Văn Trọng phó trưởng phòng quản lý
+31,74,640,74,640,140,31,140, cứu" Tối 25/7 trung tướng Tô n Xô Chánh văn phòng
+35,140,640,140,640,206,35,206, hại cho Nhà nước 1 159 tỷ đồng Trong vụ án này hai
+226,206,640,206,640,272,226,272, tại nghĩa địa Đá Bạc khi chưa hoàn

@@ -1,0 +1,4 @@
+61,13,640,13,640,79,61,79, trình điều tra vụ kit test Việt Á Cơ
+92,79,640,79,640,145,92,145, nhiệm để xảy ra khuyết điểm vi
+94,145,640,145,640,211,94,211, Ban Thường vụ Đảng ủy Tổng
+35,211,640,211,640,277,35,277, thẩm công khai và 5 ngày nghị án

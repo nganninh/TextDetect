@@ -1,0 +1,4 @@
+64,0,640,0,640,66,64,66, Nhà nước trong việc giao đất cho hộ
+219,66,640,66,640,132,219,132, xử lý vi phạm không đúng
+16,132,640,132,640,198,16,198, Chấp hành Trung ương Đảng Cộng sản
+16,198,640,198,640,264,16,264, Sở Giáo dục và Đào tạo GD&ĐT TP Cần

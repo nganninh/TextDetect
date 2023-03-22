@@ -1,0 +1,2 @@
+100,1,640,1,640,72,100,72, phòng trong thời gian giữ
+51,72,640,72,640,143,51,143, quả rất nghiêm trọng" Ngày

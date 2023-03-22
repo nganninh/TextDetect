@@ -1,0 +1,4 @@
+189,8,512,8,512,80,189,80, hiện các dự án đầu tư xây dựng
+257,80,640,80,640,152,257,152, ông Hà Thái Nguyên Phó Giám đốc Sở
+20,152,640,152,640,224,20,224, Thủ tướng" Ông Thành bị cho là đã đổ lỗi cho báo chí thay vì
+5,224,640,224,640,296,5,296, Nguyễn Đức Chung giữ vai trò quan trọng khi chỉ đạo đình chỉ

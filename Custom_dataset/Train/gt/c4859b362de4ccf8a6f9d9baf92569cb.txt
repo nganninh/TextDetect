@@ -1,0 +1,4 @@
+29,6,640,6,640,71,29,71, tự xã hội Phó thủ trưởng Cơ quan
+7,71,640,71,640,136,7,136, nguyên Phó giám thị Trại tạm giam
+6,136,640,136,640,201,6,201, thi hành kỷ luật ông Lê Minh Trung
+12,201,640,201,640,266,12,266, đã ký 7 hợp đồng với BIDV Tây Sài

@@ -1,0 +1,4 @@
+296,4,640,4,640,69,296,69, nguyên Đảng ủy viên nguyên Kế toán
+247,69,640,69,640,134,247,134, 58 Ủy ban Kiểm tra Trung ương quyết định
+307,134,507,134,507,199,307,199, thức cảnh cáo đối với
+81,199,640,199,640,264,81,264, quyết định cảnh cáo đối với ông Nguyễn Đình Ninh đảng viên

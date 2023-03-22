@@ -1,0 +1,4 @@
+9,7,640,7,640,72,9,72, quyết định khởi tố vụ án hình sự và
+38,72,640,72,640,137,38,137, công tác và Ban Chấp hành Đảng
+121,137,640,137,640,202,121,202, chịu trách nhiệm về những vi
+3,202,640,202,640,267,3,267, Chiến Trưởng phòng thuộc Ban Nội

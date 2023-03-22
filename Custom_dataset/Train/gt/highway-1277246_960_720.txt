@@ -1,0 +1,3 @@
+4,3,640,3,640,75,4,75, thi hành kỷ luật ông Huỳnh Tiến Mạnh bằng
+47,75,640,75,640,147,47,147, 3 cán bộ bị bắt với cáo buộc nhận hối lộ
+318,147,640,147,640,219,318,219, tư Khu đô thị mới Thủ

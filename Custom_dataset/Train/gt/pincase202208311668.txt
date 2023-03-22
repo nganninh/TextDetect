@@ -1,0 +1,4 @@
+13,1,640,1,640,70,13,70, Chi bộ 4 Phó Trưởng khoa Dược - Vật tư y tế
+58,70,640,70,640,139,58,139, thế có thể nói chính sách 4 không của Bộ
+38,139,640,139,640,208,38,208, Phó Tổng giám đốc Vinawaco 274 Bộ GTVT
+352,208,640,208,640,277,352,277, Sở Tài nguyên - môi

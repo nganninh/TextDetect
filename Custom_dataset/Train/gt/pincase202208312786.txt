@@ -1,0 +1,4 @@
+62,3,640,3,640,74,62,74, Bộ Công an đã khởi tố bị can bắt
+71,74,640,74,640,145,71,145, là nguy hiểm cho xã hội vi phạm
+18,145,640,145,640,216,18,216, là Phó bí thư Đảng ủy Tư lệnh Cảnh
+54,216,640,216,640,287,54,287, trưởng; ông Nghiêm Tuấn Linh và

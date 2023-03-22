@@ -1,0 +1,4 @@
+3,2,640,2,640,68,3,68, nghị Ban Thường vụ Tỉnh ủy xem
+31,68,640,68,640,134,31,134, thanh toán cho hợp đồng trước
+12,134,640,134,640,200,12,200, nguyên Trưởng phòng Nội vụ TP
+6,200,640,200,640,266,6,266, ngân sách nhà nước ảnh hưởng

@@ -1,0 +1,3 @@
+126,0,640,0,640,72,126,72, trị công trình xây dựng trên đất giá
+53,72,640,72,640,144,53,144, định của Đảng Nhà nước và ngành Công
+52,144,640,144,640,216,52,216, các chức vụ trong Đảng đối với ông Trần

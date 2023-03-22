@@ -1,0 +1,3 @@
+36,11,640,11,640,77,36,77, phạm nguyên tắc tập trung dân chủ Quy chế
+173,77,640,77,640,143,173,143, phạm quy định pháp luật vi phạm
+39,143,640,143,640,209,39,209, cục Hậu cần - Kỹ thuật Bộ Công an vi phạm

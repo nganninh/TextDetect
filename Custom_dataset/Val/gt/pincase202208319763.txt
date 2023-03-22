@@ -1,0 +1,4 @@
+39,1,640,1,640,73,39,73, nước Nguyễn Phú Trọng đã
+3,73,640,73,640,145,3,145, hành vi Lạm quyền trong khi
+19,145,640,145,640,217,19,217, ra Quyết định khởi tố bị can
+64,217,640,217,640,289,64,289, Hưng VRLH diễn ra sau 4

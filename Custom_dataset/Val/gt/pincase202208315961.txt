@@ -1,0 +1,3 @@
+35,12,640,12,640,80,35,80, phó bí thư Đảng ủy phó giám đốc Sở Xây
+39,80,640,80,640,148,39,148, nhân trong thực hiện chức trách nhiệm
+8,148,640,148,640,216,8,216, với ông Nguyễn Thế Hùng nguyên Phó Chủ

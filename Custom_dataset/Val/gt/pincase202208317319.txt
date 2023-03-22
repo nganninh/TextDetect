@@ -1,0 +1,3 @@
+50,12,640,12,640,78,50,78, trách nhiệm buông lỏng lãnh đạo
+59,78,640,78,640,144,59,144, đa quốc gia bị tố giác hoạt động
+96,144,640,144,640,210,96,210, Thiêm gây hậu quả rất nghiêm

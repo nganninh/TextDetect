@@ -1,0 +1,4 @@
+56,2,640,2,640,74,56,74, trách nhiệm về các vi phạm khuyết
+23,74,640,74,640,146,23,146, hình thức khai trừ Đảng đối với ông
+47,146,640,146,640,218,47,218, Sabeco Pearl Sau khi hoàn tất góp
+9,218,640,218,640,290,9,290, Phó chủ nhiệm Hậu cần và cho xuất

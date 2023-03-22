@@ -1,0 +1,4 @@
+19,4,640,4,640,70,19,70, Đình Phòng- nguyên Chỉ huy
+34,70,640,70,640,136,34,136, Trung tướng Nguyễn Quang
+33,136,640,136,640,202,33,202, và quyền riêng tư của người
+41,202,640,202,640,268,41,268, ý tách thửa sang tên cho bà

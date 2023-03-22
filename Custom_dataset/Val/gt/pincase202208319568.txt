@@ -1,0 +1,3 @@
+88,8,640,8,640,80,88,80, phạm khuyết điểm: Trực tiếp ký
+17,80,640,80,640,152,17,152, đề nghị của Ủy ban Kiểm tra Trung
+42,152,640,152,640,224,42,224, ngoài để thi thố tài năng 36 Truyền

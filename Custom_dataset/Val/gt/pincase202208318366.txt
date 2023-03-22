@@ -1,0 +1,4 @@
+102,5,640,5,640,76,102,76, ra xung đột và nếu Việt Nam không có
+14,76,640,76,640,147,14,147, tịch UBND huyện Phụng Hiệp và đồng chí Võ
+66,147,640,147,640,218,66,218, Thị Lý Len - Phó chánh Văn phòng Sở Tài
+5,218,640,218,640,289,5,289, quy định làm thất thoát ngân sách nhà nước

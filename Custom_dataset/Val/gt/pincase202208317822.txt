@@ -1,0 +1,4 @@
+228,2,640,2,640,71,228,71, thời gian giữ cương vị Ủy viên Ban Thường
+249,71,640,71,640,140,249,140, Văn Kính nguyên Bí thư Đảng ủy nguyên
+279,140,551,140,551,209,279,209, lợi dụng chức vụ quyền hạn
+40,209,640,209,640,278,40,278, ghép ảnh chỗ khác vào chứ đâu có chuyện xe ủi nhà ông Vươn

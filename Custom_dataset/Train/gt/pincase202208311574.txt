@@ -1,0 +1,2 @@
+45,10,640,10,640,75,45,75, bị can Lệnh bắt bị can để tạm giam và
+18,75,640,75,640,140,18,140, thực hiện nhiệm vụ được giao 133 Sáng

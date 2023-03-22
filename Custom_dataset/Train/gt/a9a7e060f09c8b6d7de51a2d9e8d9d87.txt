@@ -1,0 +1,4 @@
+0,11,640,11,640,83,0,83, Sản nhi Phú Yên - trong quá trình
+243,83,640,83,640,155,243,155, kết luận về việc kiểm
+2,155,640,155,640,227,2,227, đã có những vi phạm khuyết điểm
+11,227,640,227,640,299,11,299, lộ trong vụ "chuyến bay giải cứu"

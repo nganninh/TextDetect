@@ -1,0 +1,3 @@
+71,9,640,9,640,74,71,74, Giang 128 ông Kiên Sóc Kha -
+34,74,640,74,640,139,34,139, nối TP Thái Bình với huyện Tiền
+28,139,640,139,640,204,28,204, nâng điểm thi trái quy định trong

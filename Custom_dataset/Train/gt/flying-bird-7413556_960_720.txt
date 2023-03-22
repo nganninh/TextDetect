@@ -1,0 +1,4 @@
+141,1,640,1,640,67,141,67, với Thượng tá Hoàng Phương Nam Ủy viên Ban Thường
+243,67,640,67,640,133,243,133, Bộ Chính trị quyết định cảnh cáo ông Trần
+39,133,640,133,640,199,39,199, Minh Chuẩn - Uỷ viên Ban Chấp hành Đảng bộ Khối Doanh nghiệp
+185,199,640,199,640,265,185,265, sơ thuê phương tiện gây thất thoát lớn ngân sách

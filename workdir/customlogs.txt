@@ -1,0 +1,134 @@
+batch is 0 
+logs {'loss': 0.30137890577316284, 'accuracy': 0.5126953125} 
+batch is 1 
+logs {'loss': 0.18208831548690796, 'accuracy': 0.3129003942012787} 
+batch is 2 
+logs {'loss': 0.13744068145751953, 'accuracy': 0.2228125035762787} 
+batch is 3 
+logs {'loss': 0.11211906373500824, 'accuracy': 0.1806665062904358} 
+batch is 4 
+logs {'loss': 0.09961302578449249, 'accuracy': 0.16684961318969727} 
+batch is 5 
+logs {'loss': 0.08611872047185898, 'accuracy': 0.1728515625} 
+batch is 6 
+logs {'loss': 0.07818996906280518, 'accuracy': 0.18442243337631226} 
+batch is 7 
+logs {'loss': 0.07084444165229797, 'accuracy': 0.2000109851360321} 
+batch is 8 
+logs {'loss': 0.06566444784402847, 'accuracy': 0.21557074785232544} 
+batch is 9 
+logs {'loss': 0.06068086624145508, 'accuracy': 0.23485448956489563} 
+batch is 10 
+logs {'loss': 0.05673503503203392, 'accuracy': 0.2507617175579071} 
+batch is 11 
+logs {'loss': 0.054157357662916183, 'accuracy': 0.2929874658584595} 
+batch is 12 
+logs {'loss': 0.05094311013817787, 'accuracy': 0.3239963948726654} 
+batch is 13 
+logs {'loss': 0.04866552725434303, 'accuracy': 0.36771833896636963} 
+batch is 14 
+logs {'loss': 0.04602650925517082, 'accuracy': 0.40778255462646484} 
+batch is 15 
+logs {'loss': 0.04453501105308533, 'accuracy': 0.44192564487457275} 
+batch is 16 
+logs {'loss': 0.04257400706410408, 'accuracy': 0.47292107343673706} 
+batch is 17 
+logs {'loss': 0.04157623276114464, 'accuracy': 0.4999099373817444} 
+batch is 18 
+logs {'loss': 0.03977268561720848, 'accuracy': 0.525456428527832} 
+batch is 19 
+logs {'loss': 0.03843124955892563, 'accuracy': 0.5479072332382202} 
+batch is 20 
+logs {'loss': 0.03808822110295296, 'accuracy': 0.567118227481842} 
+batch is 21 
+logs {'loss': 0.03718894347548485, 'accuracy': 0.5854474306106567} 
+batch is 22 
+logs {'loss': 0.03646978363394737, 'accuracy': 0.6021267771720886} 
+batch is 23 
+logs {'loss': 0.03586215525865555, 'accuracy': 0.6166874170303345} 
+batch is 24 
+logs {'loss': 0.03540077432990074, 'accuracy': 0.6309574246406555} 
+batch is 25 
+logs {'loss': 0.03480232506990433, 'accuracy': 0.6427940726280212} 
+batch is 26 
+logs {'loss': 0.03418987989425659, 'accuracy': 0.6550289392471313} 
+batch is 27 
+logs {'loss': 0.03354383632540703, 'accuracy': 0.6658443808555603} 
+batch is 28 
+logs {'loss': 0.03307613357901573, 'accuracy': 0.6761311292648315} 
+batch is 29 
+logs {'loss': 0.03289497643709183, 'accuracy': 0.6853440999984741} 
+batch is 30 
+logs {'loss': 0.032436057925224304, 'accuracy': 0.6949641108512878} 
+batch is 31 
+logs {'loss': 0.03177729249000549, 'accuracy': 0.7036792039871216} 
+batch is 32 
+logs {'loss': 0.031127145513892174, 'accuracy': 0.7121466398239136} 
+batch is 33 
+logs {'loss': 0.030939416959881783, 'accuracy': 0.714059054851532} 
+batch is 34 
+logs {'loss': 0.03099820949137211, 'accuracy': 0.7182608842849731} 
+batch is 35 
+logs {'loss': 0.030609704554080963, 'accuracy': 0.7229752540588379} 
+batch is 36 
+logs {'loss': 0.030229568481445312, 'accuracy': 0.7280371189117432} 
+batch is 37 
+logs {'loss': 0.030087562277913094, 'accuracy': 0.7318179607391357} 
+batch is 38 
+logs {'loss': 0.02962326630949974, 'accuracy': 0.7380751967430115} 
+batch is 39 
+logs {'loss': 0.029179802164435387, 'accuracy': 0.7437155842781067} 
+batch is 40 
+logs {'loss': 0.02862510085105896, 'accuracy': 0.7495403289794922} 
+batch is 41 
+logs {'loss': 0.028191586956381798, 'accuracy': 0.7547000646591187} 
+batch is 42 
+logs {'loss': 0.027748528867959976, 'accuracy': 0.7599159479141235} 
+batch is 43 
+logs {'loss': 0.02729138918220997, 'accuracy': 0.7636783123016357} 
+batch is 44 
+logs {'loss': 0.027373922988772392, 'accuracy': 0.7670670747756958} 
+batch is 45 
+logs {'loss': 0.026985252276062965, 'accuracy': 0.7712183594703674} 
+batch is 46 
+logs {'loss': 0.026573117822408676, 'accuracy': 0.771385908126831} 
+batch is 47 
+logs {'loss': 0.026106083765625954, 'accuracy': 0.7758115530014038} 
+batch is 48 
+logs {'loss': 0.025837285444140434, 'accuracy': 0.7786062955856323} 
+batch is 49 
+logs {'loss': 0.025792954489588737, 'accuracy': 0.7791587710380554} 
+batch is 50 
+logs {'loss': 0.02599172666668892, 'accuracy': 0.7738798260688782} 
+batch is 51 
+logs {'loss': 0.025725621730089188, 'accuracy': 0.7774273157119751} 
+batch is 52 
+logs {'loss': 0.025600163266062737, 'accuracy': 0.7795516848564148} 
+batch is 53 
+logs {'loss': 0.02531437762081623, 'accuracy': 0.7831221222877502} 
+batch is 54 
+logs {'loss': 0.025047985836863518, 'accuracy': 0.785857617855072} 
+batch is 55 
+logs {'loss': 0.024781497195363045, 'accuracy': 0.7892785668373108} 
+batch is 56 
+logs {'loss': 0.024534281343221664, 'accuracy': 0.7922757267951965} 
+batch is 57 
+logs {'loss': 0.02428123727440834, 'accuracy': 0.7952018976211548} 
+batch is 58 
+logs {'loss': 0.02410098910331726, 'accuracy': 0.7969087362289429} 
+batch is 59 
+logs {'loss': 0.02415948361158371, 'accuracy': 0.7984415888786316} 
+batch is 60 
+logs {'loss': 0.02399001643061638, 'accuracy': 0.8006666302680969} 
+batch is 61 
+logs {'loss': 0.02382826618850231, 'accuracy': 0.8030638694763184} 
+batch is 62 
+logs {'loss': 0.02361796237528324, 'accuracy': 0.8053483366966248} 
+batch is 63 
+logs {'loss': 0.02341841161251068, 'accuracy': 0.8079385161399841} 
+batch is 64 
+logs {'loss': 0.023285016417503357, 'accuracy': 0.8106657266616821} 
+batch is 65 
+logs {'loss': 0.023219674825668335, 'accuracy': 0.8085314631462097} 
+batch is 66 
+logs {'loss': 0.02309112623333931, 'accuracy': 0.8083974123001099} 

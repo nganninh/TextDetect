@@ -1,0 +1,4 @@
+4,0,640,0,640,66,4,66, Thị Lan Anh Đảng ủy viên Đảng ủy bộ phận Bí
+16,66,640,66,640,132,16,132, đã chiếm đoạt sổ đỏ gốc và chuyển toàn bộ số
+271,132,640,132,640,198,271,198, Xương có chiều dài khoảng
+35,198,640,198,640,264,35,264, vụ án “Tham ô tài sản” tại Tổng Công ty CP

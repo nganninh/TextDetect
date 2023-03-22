@@ -1,0 +1,3 @@
+15,9,640,9,640,74,15,74, nghiêm trọng của Ban thường vụ
+40,74,640,74,640,139,40,139, trung dân chủ Quy chế làm việc
+54,139,640,139,640,204,54,204, đoàn Phó Chủ tịch Thường trực

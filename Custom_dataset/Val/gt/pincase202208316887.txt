@@ -1,0 +1,4 @@
+40,4,623,4,623,72,40,72, Chủ tịch Thường trực HĐND tỉnh Gia Lai Uỷ
+44,72,640,72,640,140,44,140, Cảnh sát điều tra tội phạm về trật tự xã hội
+42,140,640,140,640,208,42,208, lộ” quy định tại Điều 354 Bộ luật Hình sự 5
+10,208,640,208,640,276,10,276, trừ ra khỏi Đảng đối với Thượng tá Hồ Anh Sơn
